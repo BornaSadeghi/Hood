@@ -1,0 +1,20 @@
+Context:
+You are a regular prole who is dreaming of obtaining freedom from your dull life under the Party's power. In your dream, you try as hard as you can to escape the control and surveillance that you are being put under. Along the way, you pick up fellow rebels to tag along and help accomplish this impossible goal.
+
+But in this game, that goal is actually impossible, as your ungood dream could make you a criminal for thoughtcrime. There are infinite levels.
+
+CONTROLS:
+W - Move up
+A - Move left
+S - Move down
+D - Move right
+Space - Attack
+
+GOAL:
+You must defeat enemies, lead your fellow rebels to the exit (They will follow you if you are close enough), and get to the next level all in order to obtain a high score. But you can never win - you can only do better than before, as it is high-score based
+
+ITEMS:
+Victory cigarettes: Increases your health (or so they say)
+Victory gin: Increases your maximum health (and gives you a tingling feeling)
+Journal: Increases your attack range (because having a journal is another way to rebel)
+Key: Required to move on to the next level
